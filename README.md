@@ -1,8 +1,7 @@
 # Blender-Appimage
 [中文](https://github.com/erroreutopia/Blender-Appimage/blob/main/README-zh.md)
 
-<font color=Blue>Unofficial</font> 
-<font color="66ccff">version of the blender Appimage</font>
+Unofficial version of the blender Appimage
 
 Unpack :
 ```shell
