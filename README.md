@@ -2,7 +2,7 @@
 
 [中文](https://github.com/erroreutopia/Blender-Appimage/blob/main/README-zh.md)
 
-`#66ccff`Unofficial version of the blender Appimage
+Unofficial version of the blender Appimage
 
 Unpack :
 ```shell
