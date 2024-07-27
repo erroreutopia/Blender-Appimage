@@ -9,6 +9,4 @@ Unpack :
 ./blender-x.x.x-linux.Appimage --appimage-extract
 ```
 
-[4.1.0 Download](https://github.com/erroreutopia/Blender-Appimage/releases/download/blender4.1.0/blender-4.1.0-linux-x64.Appimage)
-
-[3.6.9 LTS Download](https://github.com/erroreutopia/Blender-Appimage/releases/download/blender/blender-3.6.9LTS2025-linux.Appimage)
+[4.2.0 LTS Download](https://github.com/erroreutopia/Blender-Appimage/releases/download/blender4.2.0/blender-4.2.0-linux-x64.Appimage)
